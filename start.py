@@ -1,1 +1,1 @@
-import get_covid_data_api, get_vacination_data_api, jsonl_no_bigquery
+import dados_covid_api, dados_vacinacao_api, jsonl_no_bigquery
